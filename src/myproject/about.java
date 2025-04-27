@@ -81,7 +81,7 @@ public class about extends javax.swing.JInternalFrame {
         jLabel9.setText("Mobile");
 
         jLabel10.setFont(new java.awt.Font("Bookman Old Style", 0, 14)); // NOI18N
-        jLabel10.setText("ANKIT KUMAR");
+        jLabel10.setText("ANJALI SINGH");
 
         jLabel11.setFont(new java.awt.Font("Bookman Old Style", 1, 14)); // NOI18N
         jLabel11.setText("Name");
@@ -93,13 +93,13 @@ public class about extends javax.swing.JInternalFrame {
         jLabel13.setText("E-mail");
 
         jLabel14.setFont(new java.awt.Font("Bookman Old Style", 0, 14)); // NOI18N
-        jLabel14.setText("9523489052");
+        jLabel14.setText("9540829725");
 
         jLabel15.setFont(new java.awt.Font("Bookman Old Style", 0, 14)); // NOI18N
-        jLabel15.setText("ankitsinha503@gmail.com");
+        jLabel15.setText("anjali988singh@gmail.com");
 
         jLabel16.setFont(new java.awt.Font("Bookman Old Style", 0, 14)); // NOI18N
-        jLabel16.setText("ankiteducation.blogspot.com");
+        jLabel16.setText("anjali988singh.blogspot.com");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
