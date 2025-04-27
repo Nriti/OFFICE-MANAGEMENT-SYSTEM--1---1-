@@ -57,7 +57,7 @@ public class about extends javax.swing.JInternalFrame {
         jLabel2.setText("Office Management System Version - 1.0.0");
 
         jLabel3.setFont(new java.awt.Font("Bookman Old Style", 0, 14)); // NOI18N
-        jLabel3.setText("copyrigth @ Ankit Kumar");
+        jLabel3.setText("copyrigth @ AnJALI SINGH");
 
         jLabel4.setFont(new java.awt.Font("Bookman Old Style", 0, 14)); // NOI18N
         jLabel4.setText("This software is based on Office Management such as ");
